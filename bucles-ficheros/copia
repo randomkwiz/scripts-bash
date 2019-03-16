@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#Crea un script llamado copia que permita copiar un fichero dado como primer paŕametro con el nombre dado como segundo parámetro.
+
+#ej. $> copia nombreantiguo nombrenuevo
+
+
+#ÁNGELA VÁZQUEZ DOMÍNGUEZ
+
+while read LINEA
+do
+
+echo $LINEA >> $2
+
+done < $1

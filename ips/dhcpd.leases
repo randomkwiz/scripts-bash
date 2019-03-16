@@ -1,0 +1,4150 @@
+lease 172.22.64.151 {
+  starts 2 2015/01/27 11:31:25;
+  ends 2 2015/01/27 11:33:27;
+  tstp 2 2015/01/27 11:33:27;
+  cltt 2 2015/01/27 11:31:25;
+  binding state free;
+  hardware ethernet 00:0c:29:eb:09:e3;
+  uid "\001\000\014)\353\011\343";
+}
+lease 172.22.64.157 {
+  starts 2 2015/01/27 11:34:04;
+  ends 2 2015/01/27 11:44:04;
+  tstp 2 2015/01/27 11:44:04;
+  cltt 2 2015/01/27 11:34:04;
+  binding state free;
+  hardware ethernet 00:0c:29:b3:3b:d2;
+}
+lease 172.22.64.153 {
+  starts 2 2015/01/27 11:36:49;
+  ends 2 2015/01/27 11:46:49;
+  tstp 2 2015/01/27 11:46:49;
+  cltt 2 2015/01/27 11:36:49;
+  binding state free;
+  hardware ethernet 00:0c:29:e3:de:33;
+}
+lease 172.22.64.163 {
+  starts 2 2015/01/27 11:37:06;
+  ends 2 2015/01/27 11:47:06;
+  tstp 2 2015/01/27 11:47:06;
+  cltt 2 2015/01/27 11:37:06;
+  binding state free;
+  hardware ethernet 00:0c:29:6f:21:35;
+}
+lease 172.22.64.161 {
+  starts 2 2015/01/27 11:49:49;
+  ends 2 2015/01/27 11:51:49;
+  tstp 2 2015/01/27 11:51:49;
+  cltt 2 2015/01/27 11:49:49;
+  binding state free;
+  hardware ethernet 00:0c:29:4a:fa:82;
+  uid "\001\000\014)J\372\202";
+}
+lease 172.22.64.171 {
+  starts 2 2015/01/27 11:51:26;
+  ends 2 2015/01/27 12:01:26;
+  tstp 2 2015/01/27 12:01:26;
+  cltt 2 2015/01/27 11:51:26;
+  binding state free;
+  hardware ethernet 00:0c:29:1f:4c:41;
+  uid "\001\000\014)\037LA";
+}
+lease 172.22.64.154 {
+  starts 2 2015/01/27 11:52:44;
+  ends 2 2015/01/27 12:02:44;
+  tstp 2 2015/01/27 12:02:44;
+  cltt 2 2015/01/27 11:52:44;
+  binding state free;
+  hardware ethernet e0:69:95:54:8b:c1;
+}
+lease 172.22.64.156 {
+  starts 2 2015/01/27 11:57:29;
+  ends 2 2015/01/27 12:07:29;
+  tstp 2 2015/01/27 12:07:29;
+  cltt 2 2015/01/27 11:57:29;
+  binding state free;
+  hardware ethernet 00:0c:29:f3:18:cc;
+}
+lease 172.22.64.170 {
+  starts 2 2015/01/27 12:06:10;
+  ends 2 2015/01/27 12:16:10;
+  tstp 2 2015/01/27 12:16:10;
+  cltt 2 2015/01/27 12:06:10;
+  binding state free;
+  hardware ethernet 44:d4:e0:db:b5:aa;
+}
+lease 172.22.64.155 {
+  starts 2 2015/01/27 12:07:56;
+  ends 2 2015/01/27 12:17:56;
+  tstp 2 2015/01/27 12:17:56;
+  cltt 2 2015/01/27 12:07:56;
+  binding state free;
+  hardware ethernet 00:0c:29:d6:c2:6d;
+}
+lease 172.22.64.177 {
+  starts 2 2015/01/27 12:40:03;
+  ends 2 2015/01/27 12:46:25;
+  tstp 2 2015/01/27 12:46:25;
+  cltt 2 2015/01/27 12:40:03;
+  binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+}
+lease 172.22.64.172 {
+  starts 2 2015/01/27 12:51:03;
+  ends 2 2015/01/27 13:00:49;
+  tstp 2 2015/01/27 13:00:49;
+  cltt 2 2015/01/27 12:51:03;
+  binding state free;
+  hardware ethernet 44:d4:e0:cd:23:1a;
+}
+lease 172.22.64.180 {
+  starts 2 2015/01/27 13:02:50;
+  ends 2 2015/01/27 13:11:28;
+  tstp 2 2015/01/27 13:11:28;
+  cltt 2 2015/01/27 13:02:50;
+  binding state free;
+  hardware ethernet b4:98:42:c9:9a:08;
+}
+lease 172.22.64.185 {
+  starts 2 2015/01/27 13:03:52;
+  ends 2 2015/01/27 13:13:49;
+  tstp 2 2015/01/27 13:13:49;
+  cltt 2 2015/01/27 13:03:52;
+  binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+}
+lease 172.22.64.174 {
+  starts 2 2015/01/27 13:33:07;
+  ends 2 2015/01/27 13:43:07;
+  tstp 2 2015/01/27 13:43:07;
+  cltt 2 2015/01/27 13:33:07;
+  binding state free;
+  hardware ethernet e8:cd:2d:51:a6:4d;
+}
+lease 172.22.64.178 {
+  starts 2 2015/01/27 13:35:25;
+  ends 2 2015/01/27 13:45:25;
+  tstp 2 2015/01/27 13:45:25;
+  cltt 2 2015/01/27 13:35:25;
+  binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+}
+lease 172.22.64.182 {
+  starts 2 2015/01/27 12:50:49;
+  ends 2 2015/01/27 14:50:49;
+  tstp 2 2015/01/27 14:50:49;
+  cltt 2 2015/01/27 12:50:49;
+  binding state free;
+  hardware ethernet 74:e2:f5:67:ed:ef;
+  uid "\001t\342\365g\355\357";
+}
+
+
+lease 172.22.64.187 {
+  starts 3 2015/01/28 07:37:56;
+  ends 3 2015/01/28 07:47:56;
+  cltt 3 2015/01/28 07:37:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 07:38:07;
+  ends 3 2015/01/28 07:48:07;
+  cltt 3 2015/01/28 07:38:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 07:38:08;
+  ends 3 2015/01/28 07:48:08;
+  cltt 3 2015/01/28 07:38:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 07:38:10;
+  ends 3 2015/01/28 07:48:10;
+  cltt 3 2015/01/28 07:38:10;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 07:38:11;
+  ends 3 2015/01/28 07:48:11;
+  cltt 3 2015/01/28 07:38:11;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 07:38:17;
+  ends 3 2015/01/28 07:48:17;
+  cltt 3 2015/01/28 07:38:17;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 07:38:18;
+  ends 3 2015/01/28 07:48:18;
+  cltt 3 2015/01/28 07:38:18;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 07:38:20;
+  ends 3 2015/01/28 07:48:20;
+  cltt 3 2015/01/28 07:38:20;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:25;
+  ends 3 2015/01/28 07:48:25;
+  cltt 3 2015/01/28 07:38:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:26;
+  ends 3 2015/01/28 07:48:26;
+  cltt 3 2015/01/28 07:38:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:26;
+  ends 3 2015/01/28 07:48:26;
+  cltt 3 2015/01/28 07:38:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:26;
+  ends 3 2015/01/28 07:48:26;
+  cltt 3 2015/01/28 07:38:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:27;
+  ends 3 2015/01/28 07:48:27;
+  cltt 3 2015/01/28 07:38:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:27;
+  ends 3 2015/01/28 07:48:27;
+  cltt 3 2015/01/28 07:38:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:28;
+  ends 3 2015/01/28 07:48:28;
+  cltt 3 2015/01/28 07:38:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:28;
+  ends 3 2015/01/28 07:48:28;
+  cltt 3 2015/01/28 07:38:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:29;
+  ends 3 2015/01/28 07:48:29;
+  cltt 3 2015/01/28 07:38:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:29;
+  ends 3 2015/01/28 07:48:29;
+  cltt 3 2015/01/28 07:38:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:29;
+  ends 3 2015/01/28 07:48:29;
+  cltt 3 2015/01/28 07:38:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:29;
+  ends 3 2015/01/28 07:48:29;
+  cltt 3 2015/01/28 07:38:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:29;
+  ends 3 2015/01/28 07:48:29;
+  cltt 3 2015/01/28 07:38:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:30;
+  ends 3 2015/01/28 07:48:30;
+  cltt 3 2015/01/28 07:38:30;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:30;
+  ends 3 2015/01/28 07:48:30;
+  cltt 3 2015/01/28 07:38:30;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.190 {
+  starts 3 2015/01/28 07:38:38;
+  ends 3 2015/01/28 07:48:38;
+  cltt 3 2015/01/28 07:38:38;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:26:bb:15:7e:d9;
+  uid "\001\000&\273\025~\331";
+  client-hostname "MBP-de-Ruben";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:38;
+  ends 3 2015/01/28 07:48:38;
+  cltt 3 2015/01/28 07:38:38;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:39;
+  ends 3 2015/01/28 07:48:39;
+  cltt 3 2015/01/28 07:38:39;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:39;
+  ends 3 2015/01/28 07:48:39;
+  cltt 3 2015/01/28 07:38:39;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:39;
+  ends 3 2015/01/28 07:48:39;
+  cltt 3 2015/01/28 07:38:39;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:39;
+  ends 3 2015/01/28 07:48:39;
+  cltt 3 2015/01/28 07:38:39;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:39;
+  ends 3 2015/01/28 07:48:39;
+  cltt 3 2015/01/28 07:38:39;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:40;
+  ends 3 2015/01/28 07:48:40;
+  cltt 3 2015/01/28 07:38:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:40;
+  ends 3 2015/01/28 07:48:40;
+  cltt 3 2015/01/28 07:38:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:40;
+  ends 3 2015/01/28 07:48:40;
+  cltt 3 2015/01/28 07:38:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:38:40;
+  ends 3 2015/01/28 07:48:40;
+  cltt 3 2015/01/28 07:38:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 07:38:56;
+  ends 3 2015/01/28 07:48:56;
+  cltt 3 2015/01/28 07:38:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 07:40:15;
+  ends 3 2015/01/28 07:50:15;
+  cltt 3 2015/01/28 07:40:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.190 {
+  starts 3 2015/01/28 07:40:53;
+  ends 3 2015/01/28 09:40:53;
+  cltt 3 2015/01/28 07:40:53;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:26:bb:15:7e:d9;
+  uid "\001\000&\273\025~\331";
+  client-hostname "MBP-de-Ruben";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 07:40:54;
+  ends 3 2015/01/28 07:50:54;
+  cltt 3 2015/01/28 07:40:54;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.190 {
+  starts 3 2015/01/28 07:40:54;
+  ends 3 2015/01/28 07:50:54;
+  cltt 3 2015/01/28 07:40:54;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:26:bb:15:7e:d9;
+  uid "\001\000&\273\025~\331";
+  client-hostname "MBP-de-Ruben";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 07:40:55;
+  ends 3 2015/01/28 07:50:55;
+  cltt 3 2015/01/28 07:40:55;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.193 {
+  starts 3 2015/01/28 07:42:24;
+  ends 3 2015/01/28 07:52:24;
+  cltt 3 2015/01/28 07:42:24;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:93:a2:a6:f8:68;
+  uid "\001\\\223\242\246\370h";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 07:42:45;
+  ends 3 2015/01/28 07:52:45;
+  cltt 3 2015/01/28 07:42:45;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 07:42:59;
+  ends 3 2015/01/28 07:52:59;
+  cltt 3 2015/01/28 07:42:59;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 07:43:08;
+  ends 3 2015/01/28 07:53:08;
+  cltt 3 2015/01/28 07:43:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.194 {
+  starts 3 2015/01/28 07:43:20;
+  ends 3 2015/01/28 07:53:20;
+  cltt 3 2015/01/28 07:43:20;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 14:7d:c5:f9:51:ff;
+  uid "\001\024}\305\371Q\377";
+  client-hostname "android-90cc29f91b3eabed";
+}
+lease 172.22.64.195 {
+  starts 3 2015/01/28 07:43:35;
+  ends 3 2015/01/28 07:53:35;
+  cltt 3 2015/01/28 07:43:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet e8:94:f6:3f:b1:aa;
+  client-hostname "alumno-ALDA";
+}
+lease 172.22.64.195 {
+  starts 3 2015/01/28 07:43:35;
+  ends 3 2015/01/28 07:53:35;
+  cltt 3 2015/01/28 07:43:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet e8:94:f6:3f:b1:aa;
+  client-hostname "alumno-ALDA";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:43:40;
+  ends 3 2015/01/28 07:53:40;
+  cltt 3 2015/01/28 07:43:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 07:43:44;
+  ends 3 2015/01/28 07:53:44;
+  cltt 3 2015/01/28 07:43:44;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 07:44:43;
+  ends 3 2015/01/28 07:54:43;
+  cltt 3 2015/01/28 07:44:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 07:45:04;
+  ends 3 2015/01/28 07:55:04;
+  cltt 3 2015/01/28 07:45:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.195 {
+  starts 3 2015/01/28 07:45:15;
+  ends 3 2015/01/28 07:55:15;
+  cltt 3 2015/01/28 07:45:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet e8:94:f6:3f:b1:aa;
+  client-hostname "alumno-ALDA";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 07:45:44;
+  ends 3 2015/01/28 07:55:44;
+  cltt 3 2015/01/28 07:45:44;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.190 {
+  starts 3 2015/01/28 07:45:54;
+  ends 3 2015/01/28 09:45:54;
+  cltt 3 2015/01/28 07:45:54;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:26:bb:15:7e:d9;
+  uid "\001\000&\273\025~\331";
+  client-hostname "MBP-de-Ruben";
+}
+lease 172.22.64.193 {
+  starts 3 2015/01/28 07:47:23;
+  ends 3 2015/01/28 07:57:23;
+  cltt 3 2015/01/28 07:47:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:93:a2:a6:f8:68;
+  uid "\001\\\223\242\246\370h";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.197 {
+  starts 3 2015/01/28 07:47:26;
+  ends 3 2015/01/28 07:57:26;
+  cltt 3 2015/01/28 07:47:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 78:e8:b6:70:1d:92;
+  client-hostname "android-39cbcad6c67f6b72";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 07:47:34;
+  ends 3 2015/01/28 07:57:34;
+  cltt 3 2015/01/28 07:47:34;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 07:47:48;
+  ends 3 2015/01/28 07:57:48;
+  cltt 3 2015/01/28 07:47:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.190 {
+  starts 3 2015/01/28 07:47:51;
+  ends 3 2015/01/28 09:47:51;
+  cltt 3 2015/01/28 07:47:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:26:bb:15:7e:d9;
+  uid "\001\000&\273\025~\331";
+  client-hostname "MBP-de-Ruben";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 07:47:57;
+  ends 3 2015/01/28 07:57:57;
+  cltt 3 2015/01/28 07:47:57;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 07:47:58;
+  ends 3 2015/01/28 07:57:58;
+  cltt 3 2015/01/28 07:47:58;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:48:41;
+  ends 3 2015/01/28 07:58:41;
+  cltt 3 2015/01/28 07:48:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 07:49:31;
+  ends 3 2015/01/28 07:59:31;
+  cltt 3 2015/01/28 07:49:31;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 07:49:52;
+  ends 3 2015/01/28 07:59:52;
+  cltt 3 2015/01/28 07:49:52;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.195 {
+  starts 3 2015/01/28 07:49:59;
+  ends 3 2015/01/28 07:59:59;
+  cltt 3 2015/01/28 07:49:59;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet e8:94:f6:3f:b1:aa;
+  client-hostname "alumno-ALDA";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 07:50:32;
+  ends 3 2015/01/28 08:00:32;
+  cltt 3 2015/01/28 07:50:32;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.193 {
+  starts 3 2015/01/28 07:52:23;
+  ends 3 2015/01/28 08:02:23;
+  cltt 3 2015/01/28 07:52:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:93:a2:a6:f8:68;
+  uid "\001\\\223\242\246\370h";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 07:52:24;
+  ends 3 2015/01/28 08:02:24;
+  cltt 3 2015/01/28 07:52:24;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 07:52:36;
+  ends 3 2015/01/28 08:02:36;
+  cltt 3 2015/01/28 07:52:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 07:52:47;
+  ends 3 2015/01/28 08:02:47;
+  cltt 3 2015/01/28 07:52:47;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.194 {
+  starts 3 2015/01/28 07:43:20;
+  ends 3 2015/01/28 07:53:20;
+  tstp 3 2015/01/28 07:53:20;
+  cltt 3 2015/01/28 07:43:20;
+  binding state free;
+  hardware ethernet 14:7d:c5:f9:51:ff;
+  uid "\001\024}\305\371Q\377";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 07:43:44;
+  ends 3 2015/01/28 07:53:44;
+  tstp 3 2015/01/28 07:53:44;
+  cltt 3 2015/01/28 07:43:44;
+  binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 07:54:08;
+  ends 3 2015/01/28 08:04:08;
+  cltt 3 2015/01/28 07:54:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 07:54:20;
+  ends 3 2015/01/28 08:04:20;
+  cltt 3 2015/01/28 07:54:20;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.195 {
+  starts 3 2015/01/28 07:54:37;
+  ends 3 2015/01/28 08:04:37;
+  cltt 3 2015/01/28 07:54:37;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet e8:94:f6:3f:b1:aa;
+  client-hostname "alumno-ALDA";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 07:54:41;
+  ends 3 2015/01/28 08:04:41;
+  cltt 3 2015/01/28 07:54:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 07:55:21;
+  ends 3 2015/01/28 08:05:21;
+  cltt 3 2015/01/28 07:55:21;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 07:57:14;
+  ends 3 2015/01/28 08:07:14;
+  cltt 3 2015/01/28 07:57:14;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 07:57:18;
+  ends 3 2015/01/28 08:07:18;
+  cltt 3 2015/01/28 07:57:18;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 07:57:19;
+  ends 3 2015/01/28 08:07:19;
+  cltt 3 2015/01/28 07:57:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.193 {
+  starts 3 2015/01/28 07:57:24;
+  ends 3 2015/01/28 08:07:24;
+  cltt 3 2015/01/28 07:57:24;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:93:a2:a6:f8:68;
+  uid "\001\\\223\242\246\370h";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 07:57:26;
+  ends 3 2015/01/28 08:07:26;
+  cltt 3 2015/01/28 07:57:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.197 {
+  starts 3 2015/01/28 07:47:26;
+  ends 3 2015/01/28 07:57:26;
+  tstp 3 2015/01/28 07:57:26;
+  cltt 3 2015/01/28 07:47:26;
+  binding state free;
+  hardware ethernet 78:e8:b6:70:1d:92;
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 07:48:41;
+  ends 3 2015/01/28 07:58:41;
+  tstp 3 2015/01/28 07:58:41;
+  cltt 3 2015/01/28 07:48:41;
+  binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 07:58:56;
+  ends 3 2015/01/28 08:08:56;
+  cltt 3 2015/01/28 07:58:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 07:59:08;
+  ends 3 2015/01/28 08:09:08;
+  cltt 3 2015/01/28 07:59:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 07:59:21;
+  ends 3 2015/01/28 08:09:21;
+  cltt 3 2015/01/28 07:59:21;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:00:09;
+  ends 3 2015/01/28 08:10:09;
+  cltt 3 2015/01/28 08:00:09;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:02:08;
+  ends 3 2015/01/28 08:12:08;
+  cltt 3 2015/01/28 08:02:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:02:13;
+  ends 3 2015/01/28 08:12:13;
+  cltt 3 2015/01/28 08:02:13;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:02:13;
+  ends 3 2015/01/28 08:12:13;
+  cltt 3 2015/01/28 08:02:13;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:02:15;
+  ends 3 2015/01/28 08:12:15;
+  cltt 3 2015/01/28 08:02:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.193 {
+  starts 3 2015/01/28 08:02:25;
+  ends 3 2015/01/28 08:12:25;
+  cltt 3 2015/01/28 08:02:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:93:a2:a6:f8:68;
+  uid "\001\\\223\242\246\370h";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:02:29;
+  ends 3 2015/01/28 08:12:29;
+  cltt 3 2015/01/28 08:02:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:02:31;
+  ends 3 2015/01/28 08:12:31;
+  cltt 3 2015/01/28 08:02:31;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 07:52:47;
+  ends 3 2015/01/28 08:02:47;
+  tstp 3 2015/01/28 08:02:47;
+  cltt 3 2015/01/28 07:52:47;
+  binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 08:03:57;
+  ends 3 2015/01/28 08:13:57;
+  cltt 3 2015/01/28 08:03:57;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:04:10;
+  ends 3 2015/01/28 08:14:10;
+  cltt 3 2015/01/28 08:04:10;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.195 {
+  starts 3 2015/01/28 07:54:37;
+  ends 3 2015/01/28 08:04:37;
+  tstp 3 2015/01/28 08:04:37;
+  cltt 3 2015/01/28 07:54:37;
+  binding state free;
+  hardware ethernet e8:94:f6:3f:b1:aa;
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:04:58;
+  ends 3 2015/01/28 08:14:58;
+  cltt 3 2015/01/28 08:04:58;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:07:02;
+  ends 3 2015/01/28 08:17:02;
+  cltt 3 2015/01/28 08:07:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:07:04;
+  ends 3 2015/01/28 08:17:04;
+  cltt 3 2015/01/28 08:07:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.193 {
+  starts 3 2015/01/28 08:07:25;
+  ends 3 2015/01/28 08:17:25;
+  cltt 3 2015/01/28 08:07:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:93:a2:a6:f8:68;
+  uid "\001\\\223\242\246\370h";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:07:47;
+  ends 3 2015/01/28 08:17:47;
+  cltt 3 2015/01/28 08:07:47;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 08:08:45;
+  ends 3 2015/01/28 08:18:45;
+  cltt 3 2015/01/28 08:08:45;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:09:00;
+  ends 3 2015/01/28 08:19:00;
+  cltt 3 2015/01/28 08:09:00;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:09:46;
+  ends 3 2015/01/28 08:19:46;
+  cltt 3 2015/01/28 08:09:46;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:11:51;
+  ends 3 2015/01/28 08:21:51;
+  cltt 3 2015/01/28 08:11:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:11:53;
+  ends 3 2015/01/28 08:21:53;
+  cltt 3 2015/01/28 08:11:53;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.193 {
+  starts 3 2015/01/28 08:12:25;
+  ends 3 2015/01/28 08:22:25;
+  cltt 3 2015/01/28 08:12:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:93:a2:a6:f8:68;
+  uid "\001\\\223\242\246\370h";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:12:36;
+  ends 3 2015/01/28 08:22:36;
+  cltt 3 2015/01/28 08:12:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 08:13:34;
+  ends 3 2015/01/28 08:23:34;
+  cltt 3 2015/01/28 08:13:34;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:13:49;
+  ends 3 2015/01/28 08:23:49;
+  cltt 3 2015/01/28 08:13:49;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:14:35;
+  ends 3 2015/01/28 08:24:35;
+  cltt 3 2015/01/28 08:14:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 08:15:15;
+  ends 3 2015/01/28 08:25:15;
+  cltt 3 2015/01/28 08:15:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:16:40;
+  ends 3 2015/01/28 08:26:40;
+  cltt 3 2015/01/28 08:16:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:16:41;
+  ends 3 2015/01/28 08:26:41;
+  cltt 3 2015/01/28 08:16:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:16:43;
+  ends 3 2015/01/28 08:26:43;
+  cltt 3 2015/01/28 08:16:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.193 {
+  starts 3 2015/01/28 08:17:25;
+  ends 3 2015/01/28 08:27:25;
+  cltt 3 2015/01/28 08:17:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:93:a2:a6:f8:68;
+  uid "\001\\\223\242\246\370h";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:17:36;
+  ends 3 2015/01/28 08:27:36;
+  cltt 3 2015/01/28 08:17:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:17:36;
+  ends 3 2015/01/28 08:27:36;
+  cltt 3 2015/01/28 08:17:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 08:18:22;
+  ends 3 2015/01/28 08:28:22;
+  cltt 3 2015/01/28 08:18:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:18:38;
+  ends 3 2015/01/28 08:28:38;
+  cltt 3 2015/01/28 08:18:38;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:19:23;
+  ends 3 2015/01/28 08:29:23;
+  cltt 3 2015/01/28 08:19:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:20:21;
+  ends 3 2015/01/28 08:30:21;
+  cltt 3 2015/01/28 08:20:21;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:20:21;
+  ends 3 2015/01/28 08:30:21;
+  cltt 3 2015/01/28 08:20:21;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:20:21;
+  ends 3 2015/01/28 08:30:21;
+  cltt 3 2015/01/28 08:20:21;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:20:22;
+  ends 3 2015/01/28 08:30:22;
+  cltt 3 2015/01/28 08:20:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:20:22;
+  ends 3 2015/01/28 08:30:22;
+  cltt 3 2015/01/28 08:20:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:20:22;
+  ends 3 2015/01/28 08:30:22;
+  cltt 3 2015/01/28 08:20:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:20:22;
+  ends 3 2015/01/28 08:30:22;
+  cltt 3 2015/01/28 08:20:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 08:21:18;
+  ends 3 2015/01/28 08:31:18;
+  cltt 3 2015/01/28 08:21:18;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 08:21:21;
+  ends 3 2015/01/28 08:31:21;
+  cltt 3 2015/01/28 08:21:21;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:21:30;
+  ends 3 2015/01/28 08:31:30;
+  cltt 3 2015/01/28 08:21:30;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:21:32;
+  ends 3 2015/01/28 08:31:32;
+  cltt 3 2015/01/28 08:21:32;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.193 {
+  starts 3 2015/01/28 08:22:25;
+  ends 3 2015/01/28 08:32:25;
+  cltt 3 2015/01/28 08:22:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 5c:93:a2:a6:f8:68;
+  uid "\001\\\223\242\246\370h";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:22:26;
+  ends 3 2015/01/28 08:32:26;
+  cltt 3 2015/01/28 08:22:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 08:23:11;
+  ends 3 2015/01/28 08:33:11;
+  cltt 3 2015/01/28 08:23:11;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:23:26;
+  ends 3 2015/01/28 08:33:26;
+  cltt 3 2015/01/28 08:23:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:23:26;
+  ends 3 2015/01/28 08:33:26;
+  cltt 3 2015/01/28 08:23:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:23:26;
+  ends 3 2015/01/28 08:33:26;
+  cltt 3 2015/01/28 08:23:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:23:26;
+  ends 3 2015/01/28 08:33:26;
+  cltt 3 2015/01/28 08:23:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:23:27;
+  ends 3 2015/01/28 08:33:27;
+  cltt 3 2015/01/28 08:23:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:23:27;
+  ends 3 2015/01/28 08:33:27;
+  cltt 3 2015/01/28 08:23:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:23:27;
+  ends 3 2015/01/28 08:33:27;
+  cltt 3 2015/01/28 08:23:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:23:27;
+  ends 3 2015/01/28 08:33:27;
+  cltt 3 2015/01/28 08:23:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:23:27;
+  ends 3 2015/01/28 08:33:27;
+  cltt 3 2015/01/28 08:23:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:23:27;
+  ends 3 2015/01/28 08:33:27;
+  cltt 3 2015/01/28 08:23:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:23:27;
+  ends 3 2015/01/28 08:33:27;
+  cltt 3 2015/01/28 08:23:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:23:27;
+  ends 3 2015/01/28 08:33:27;
+  cltt 3 2015/01/28 08:23:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:23:29;
+  ends 3 2015/01/28 08:33:29;
+  cltt 3 2015/01/28 08:23:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:24:12;
+  ends 3 2015/01/28 08:34:12;
+  cltt 3 2015/01/28 08:24:12;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:25:22;
+  ends 3 2015/01/28 08:35:22;
+  cltt 3 2015/01/28 08:25:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:26:20;
+  ends 3 2015/01/28 08:36:20;
+  cltt 3 2015/01/28 08:26:20;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:26:21;
+  ends 3 2015/01/28 08:36:21;
+  cltt 3 2015/01/28 08:26:21;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:27:15;
+  ends 3 2015/01/28 08:37:15;
+  cltt 3 2015/01/28 08:27:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 08:27:59;
+  ends 3 2015/01/28 08:37:59;
+  cltt 3 2015/01/28 08:27:59;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:28:17;
+  ends 3 2015/01/28 08:38:17;
+  cltt 3 2015/01/28 08:28:17;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:28:26;
+  ends 3 2015/01/28 08:38:26;
+  cltt 3 2015/01/28 08:28:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:29:00;
+  ends 3 2015/01/28 08:39:00;
+  cltt 3 2015/01/28 08:29:00;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:38;
+  ends 3 2015/01/28 08:39:38;
+  cltt 3 2015/01/28 08:29:38;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:39:43;
+  cltt 3 2015/01/28 08:29:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:39:43;
+  cltt 3 2015/01/28 08:29:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:39:43;
+  cltt 3 2015/01/28 08:29:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:39:43;
+  cltt 3 2015/01/28 08:29:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:39:43;
+  cltt 3 2015/01/28 08:29:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:39:43;
+  cltt 3 2015/01/28 08:29:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:39:43;
+  cltt 3 2015/01/28 08:29:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:39:43;
+  cltt 3 2015/01/28 08:29:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:39:43;
+  cltt 3 2015/01/28 08:29:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:39:43;
+  cltt 3 2015/01/28 08:29:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:39:43;
+  cltt 3 2015/01/28 08:29:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:39:43;
+  cltt 3 2015/01/28 08:29:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+  client-hostname "Darkkiros";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:30:23;
+  ends 3 2015/01/28 08:40:23;
+  cltt 3 2015/01/28 08:30:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:31:10;
+  ends 3 2015/01/28 08:41:10;
+  cltt 3 2015/01/28 08:31:10;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:31:10;
+  ends 3 2015/01/28 08:41:10;
+  cltt 3 2015/01/28 08:31:10;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 08:21:21;
+  ends 3 2015/01/28 08:31:21;
+  tstp 3 2015/01/28 08:31:21;
+  cltt 3 2015/01/28 08:21:21;
+  binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:32:04;
+  ends 3 2015/01/28 08:42:04;
+  cltt 3 2015/01/28 08:32:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.193 {
+  starts 3 2015/01/28 08:22:25;
+  ends 3 2015/01/28 08:32:25;
+  tstp 3 2015/01/28 08:32:25;
+  cltt 3 2015/01/28 08:22:25;
+  binding state free;
+  hardware ethernet 5c:93:a2:a6:f8:68;
+  uid "\001\\\223\242\246\370h";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 08:32:48;
+  ends 3 2015/01/28 08:42:48;
+  cltt 3 2015/01/28 08:32:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:33:06;
+  ends 3 2015/01/28 08:43:06;
+  cltt 3 2015/01/28 08:33:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.199 {
+  starts 3 2015/01/28 08:29:43;
+  ends 3 2015/01/28 08:33:40;
+  tstp 3 2015/01/28 08:33:40;
+  cltt 3 2015/01/28 08:29:43;
+  binding state free;
+  hardware ethernet 38:2c:4a:39:69:e5;
+  uid "\0018,J9i\345";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:33:49;
+  ends 3 2015/01/28 08:43:49;
+  cltt 3 2015/01/28 08:33:49;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.200 {
+  starts 3 2015/01/28 08:34:28;
+  ends 3 2015/01/28 08:44:28;
+  cltt 3 2015/01/28 08:34:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet e8:39:df:f9:90:da;
+  uid "\001\3509\337\371\220\332";
+  client-hostname "juan-PC";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:35:22;
+  ends 3 2015/01/28 08:45:22;
+  cltt 3 2015/01/28 08:35:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:35:59;
+  ends 3 2015/01/28 08:45:59;
+  cltt 3 2015/01/28 08:35:59;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:35:59;
+  ends 3 2015/01/28 08:45:59;
+  cltt 3 2015/01/28 08:35:59;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 08:36:12;
+  ends 3 2015/01/28 08:46:12;
+  cltt 3 2015/01/28 08:36:12;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+  client-hostname "android-509ca7d1930b758d";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:36:54;
+  ends 3 2015/01/28 08:46:54;
+  cltt 3 2015/01/28 08:36:54;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 08:38:28;
+  ends 3 2015/01/28 08:48:28;
+  cltt 3 2015/01/28 08:38:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:38:37;
+  ends 3 2015/01/28 08:48:37;
+  cltt 3 2015/01/28 08:38:37;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.200 {
+  starts 3 2015/01/28 08:39:29;
+  ends 3 2015/01/28 08:49:29;
+  cltt 3 2015/01/28 08:39:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet e8:39:df:f9:90:da;
+  uid "\001\3509\337\371\220\332";
+  client-hostname "juan-PC";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 08:40:21;
+  ends 3 2015/01/28 08:50:21;
+  cltt 3 2015/01/28 08:40:21;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:40:22;
+  ends 3 2015/01/28 08:50:22;
+  cltt 3 2015/01/28 08:40:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:40:28;
+  ends 3 2015/01/28 08:50:28;
+  cltt 3 2015/01/28 08:40:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:40:30;
+  ends 3 2015/01/28 08:50:30;
+  cltt 3 2015/01/28 08:40:30;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:40:31;
+  ends 3 2015/01/28 08:50:31;
+  cltt 3 2015/01/28 08:40:31;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:40:47;
+  ends 3 2015/01/28 08:50:47;
+  cltt 3 2015/01/28 08:40:47;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:40:48;
+  ends 3 2015/01/28 08:50:48;
+  cltt 3 2015/01/28 08:40:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:40:50;
+  ends 3 2015/01/28 08:50:50;
+  cltt 3 2015/01/28 08:40:50;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 08:41:01;
+  ends 3 2015/01/28 08:51:01;
+  cltt 3 2015/01/28 08:41:01;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:41:43;
+  ends 3 2015/01/28 08:51:43;
+  cltt 3 2015/01/28 08:41:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 08:43:17;
+  ends 3 2015/01/28 08:53:17;
+  cltt 3 2015/01/28 08:43:17;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:43:26;
+  ends 3 2015/01/28 08:53:26;
+  cltt 3 2015/01/28 08:43:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:45:19;
+  ends 3 2015/01/28 08:55:19;
+  cltt 3 2015/01/28 08:45:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 08:45:21;
+  ends 3 2015/01/28 08:55:21;
+  cltt 3 2015/01/28 08:45:21;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:45:22;
+  ends 3 2015/01/28 08:55:22;
+  cltt 3 2015/01/28 08:45:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 08:45:26;
+  ends 3 2015/01/28 08:55:26;
+  cltt 3 2015/01/28 08:45:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:45:36;
+  ends 3 2015/01/28 08:55:36;
+  cltt 3 2015/01/28 08:45:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:45:39;
+  ends 3 2015/01/28 08:55:39;
+  cltt 3 2015/01/28 08:45:39;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 08:45:50;
+  ends 3 2015/01/28 08:55:50;
+  cltt 3 2015/01/28 08:45:50;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 08:45:51;
+  ends 3 2015/01/28 08:55:51;
+  cltt 3 2015/01/28 08:45:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:46:32;
+  ends 3 2015/01/28 08:56:32;
+  cltt 3 2015/01/28 08:46:32;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:48:15;
+  ends 3 2015/01/28 08:58:15;
+  cltt 3 2015/01/28 08:48:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 08:49:13;
+  ends 3 2015/01/28 08:59:13;
+  cltt 3 2015/01/28 08:49:13;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.200 {
+  starts 3 2015/01/28 08:39:29;
+  ends 3 2015/01/28 08:49:29;
+  tstp 3 2015/01/28 08:49:29;
+  cltt 3 2015/01/28 08:39:29;
+  binding state free;
+  hardware ethernet e8:39:df:f9:90:da;
+  uid "\001\3509\337\371\220\332";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:50:09;
+  ends 3 2015/01/28 09:00:09;
+  cltt 3 2015/01/28 08:50:09;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:50:22;
+  ends 3 2015/01/28 09:00:22;
+  cltt 3 2015/01/28 08:50:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:50:25;
+  ends 3 2015/01/28 09:00:25;
+  cltt 3 2015/01/28 08:50:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:50:29;
+  ends 3 2015/01/28 09:00:29;
+  cltt 3 2015/01/28 08:50:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 08:50:29;
+  ends 3 2015/01/28 09:00:29;
+  cltt 3 2015/01/28 08:50:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 08:50:45;
+  ends 3 2015/01/28 09:00:45;
+  cltt 3 2015/01/28 08:50:45;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 08:50:48;
+  ends 3 2015/01/28 09:00:48;
+  cltt 3 2015/01/28 08:50:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 08:51:20;
+  ends 3 2015/01/28 09:01:20;
+  cltt 3 2015/01/28 08:51:20;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:51:22;
+  ends 3 2015/01/28 09:01:22;
+  cltt 3 2015/01/28 08:51:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:52:51;
+  ends 3 2015/01/28 09:02:51;
+  cltt 3 2015/01/28 08:52:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:52:57;
+  ends 3 2015/01/28 09:02:57;
+  cltt 3 2015/01/28 08:52:57;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:52:58;
+  ends 3 2015/01/28 09:02:58;
+  cltt 3 2015/01/28 08:52:58;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:53:05;
+  ends 3 2015/01/28 09:03:05;
+  cltt 3 2015/01/28 08:53:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:53:12;
+  ends 3 2015/01/28 09:03:12;
+  cltt 3 2015/01/28 08:53:12;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:53:13;
+  ends 3 2015/01/28 09:03:13;
+  cltt 3 2015/01/28 08:53:13;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:53:14;
+  ends 3 2015/01/28 09:03:14;
+  cltt 3 2015/01/28 08:53:14;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 08:54:02;
+  ends 3 2015/01/28 09:04:02;
+  cltt 3 2015/01/28 08:54:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:54:57;
+  ends 3 2015/01/28 09:04:57;
+  cltt 3 2015/01/28 08:54:57;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:55:19;
+  ends 3 2015/01/28 09:05:19;
+  cltt 3 2015/01/28 08:55:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 08:55:22;
+  ends 3 2015/01/28 09:05:22;
+  cltt 3 2015/01/28 08:55:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 08:55:25;
+  ends 3 2015/01/28 09:05:25;
+  cltt 3 2015/01/28 08:55:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 08:55:43;
+  ends 3 2015/01/28 09:05:43;
+  cltt 3 2015/01/28 08:55:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 08:55:44;
+  ends 3 2015/01/28 09:05:44;
+  cltt 3 2015/01/28 08:55:44;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 08:56:11;
+  ends 3 2015/01/28 09:06:11;
+  cltt 3 2015/01/28 08:56:11;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 08:57:48;
+  ends 3 2015/01/28 09:07:48;
+  cltt 3 2015/01/28 08:57:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 08:57:54;
+  ends 3 2015/01/28 09:07:54;
+  cltt 3 2015/01/28 08:57:54;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 08:58:03;
+  ends 3 2015/01/28 09:08:03;
+  cltt 3 2015/01/28 08:58:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 08:58:49;
+  ends 3 2015/01/28 09:08:49;
+  cltt 3 2015/01/28 08:58:49;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 08:59:46;
+  ends 3 2015/01/28 09:09:46;
+  cltt 3 2015/01/28 08:59:46;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 09:00:13;
+  ends 3 2015/01/28 09:10:13;
+  cltt 3 2015/01/28 09:00:13;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 09:00:16;
+  ends 3 2015/01/28 09:10:16;
+  cltt 3 2015/01/28 09:00:16;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 09:00:22;
+  ends 3 2015/01/28 09:10:22;
+  cltt 3 2015/01/28 09:00:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+  client-hostname "MV1SMR03";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:00:38;
+  ends 3 2015/01/28 09:10:38;
+  cltt 3 2015/01/28 09:00:38;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:01:11;
+  ends 3 2015/01/28 09:11:11;
+  cltt 3 2015/01/28 09:01:11;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:01:33;
+  ends 3 2015/01/28 09:11:33;
+  cltt 3 2015/01/28 09:01:33;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 09:02:37;
+  ends 3 2015/01/28 09:12:37;
+  cltt 3 2015/01/28 09:02:37;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 09:02:43;
+  ends 3 2015/01/28 09:12:43;
+  cltt 3 2015/01/28 09:02:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 09:02:52;
+  ends 3 2015/01/28 09:12:52;
+  cltt 3 2015/01/28 09:02:52;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 09:03:38;
+  ends 3 2015/01/28 09:13:38;
+  cltt 3 2015/01/28 09:03:38;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 09:04:35;
+  ends 3 2015/01/28 09:14:35;
+  cltt 3 2015/01/28 09:04:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 09:05:04;
+  ends 3 2015/01/28 09:15:04;
+  cltt 3 2015/01/28 09:05:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 09:05:06;
+  ends 3 2015/01/28 09:15:06;
+  cltt 3 2015/01/28 09:05:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 09:05:07;
+  ends 3 2015/01/28 09:15:07;
+  cltt 3 2015/01/28 09:05:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:05:27;
+  ends 3 2015/01/28 09:15:27;
+  cltt 3 2015/01/28 09:05:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:05:28;
+  ends 3 2015/01/28 09:15:28;
+  cltt 3 2015/01/28 09:05:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:05:29;
+  ends 3 2015/01/28 09:15:29;
+  cltt 3 2015/01/28 09:05:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:06:18;
+  ends 3 2015/01/28 09:16:18;
+  cltt 3 2015/01/28 09:06:18;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:06:23;
+  ends 3 2015/01/28 09:16:23;
+  cltt 3 2015/01/28 09:06:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 09:07:26;
+  ends 3 2015/01/28 09:17:26;
+  cltt 3 2015/01/28 09:07:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 09:07:31;
+  ends 3 2015/01/28 09:17:31;
+  cltt 3 2015/01/28 09:07:31;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 09:07:41;
+  ends 3 2015/01/28 09:17:41;
+  cltt 3 2015/01/28 09:07:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 09:08:27;
+  ends 3 2015/01/28 09:18:27;
+  cltt 3 2015/01/28 09:08:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 09:09:23;
+  ends 3 2015/01/28 09:19:23;
+  cltt 3 2015/01/28 09:09:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 09:09:55;
+  ends 3 2015/01/28 09:19:55;
+  cltt 3 2015/01/28 09:09:55;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.189 {
+  starts 3 2015/01/28 09:00:22;
+  ends 3 2015/01/28 09:10:22;
+  tstp 3 2015/01/28 09:10:22;
+  cltt 3 2015/01/28 09:00:22;
+  binding state free;
+  hardware ethernet 00:0c:29:7f:a5:97;
+  uid "\001\000\014)\177\245\227";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:10:23;
+  ends 3 2015/01/28 09:20:23;
+  cltt 3 2015/01/28 09:10:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:11:07;
+  ends 3 2015/01/28 09:21:07;
+  cltt 3 2015/01/28 09:11:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:11:08;
+  ends 3 2015/01/28 09:21:08;
+  cltt 3 2015/01/28 09:11:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:11:12;
+  ends 3 2015/01/28 09:21:12;
+  cltt 3 2015/01/28 09:11:12;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 09:12:15;
+  ends 3 2015/01/28 09:22:15;
+  cltt 3 2015/01/28 09:12:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 09:12:19;
+  ends 3 2015/01/28 09:22:19;
+  cltt 3 2015/01/28 09:12:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 09:12:30;
+  ends 3 2015/01/28 09:22:30;
+  cltt 3 2015/01/28 09:12:30;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 09:13:15;
+  ends 3 2015/01/28 09:23:15;
+  cltt 3 2015/01/28 09:13:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 09:14:12;
+  ends 3 2015/01/28 09:24:12;
+  cltt 3 2015/01/28 09:14:12;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 09:14:43;
+  ends 3 2015/01/28 09:24:43;
+  cltt 3 2015/01/28 09:14:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:15:12;
+  ends 3 2015/01/28 09:25:12;
+  cltt 3 2015/01/28 09:15:12;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:15:56;
+  ends 3 2015/01/28 09:25:56;
+  cltt 3 2015/01/28 09:15:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:15:57;
+  ends 3 2015/01/28 09:25:57;
+  cltt 3 2015/01/28 09:15:57;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:16:01;
+  ends 3 2015/01/28 09:26:01;
+  cltt 3 2015/01/28 09:16:01;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 09:17:05;
+  ends 3 2015/01/28 09:27:05;
+  cltt 3 2015/01/28 09:17:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 09:17:09;
+  ends 3 2015/01/28 09:27:09;
+  cltt 3 2015/01/28 09:17:09;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 09:17:20;
+  ends 3 2015/01/28 09:27:20;
+  cltt 3 2015/01/28 09:17:20;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 09:18:04;
+  ends 3 2015/01/28 09:28:04;
+  cltt 3 2015/01/28 09:18:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 09:19:01;
+  ends 3 2015/01/28 09:29:01;
+  cltt 3 2015/01/28 09:19:01;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 09:19:31;
+  ends 3 2015/01/28 09:29:31;
+  cltt 3 2015/01/28 09:19:31;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:20:02;
+  ends 3 2015/01/28 09:30:02;
+  cltt 3 2015/01/28 09:20:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:20:46;
+  ends 3 2015/01/28 09:30:46;
+  cltt 3 2015/01/28 09:20:46;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:20:56;
+  ends 3 2015/01/28 09:30:56;
+  cltt 3 2015/01/28 09:20:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 09:21:54;
+  ends 3 2015/01/28 09:31:54;
+  cltt 3 2015/01/28 09:21:54;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 09:21:58;
+  ends 3 2015/01/28 09:31:58;
+  cltt 3 2015/01/28 09:21:58;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 09:22:08;
+  ends 3 2015/01/28 09:32:08;
+  cltt 3 2015/01/28 09:22:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 09:22:52;
+  ends 3 2015/01/28 09:32:52;
+  cltt 3 2015/01/28 09:22:52;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 09:23:49;
+  ends 3 2015/01/28 09:33:49;
+  cltt 3 2015/01/28 09:23:49;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:24:51;
+  ends 3 2015/01/28 09:34:51;
+  cltt 3 2015/01/28 09:24:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:24:52;
+  ends 3 2015/01/28 09:34:52;
+  cltt 3 2015/01/28 09:24:52;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:25:34;
+  ends 3 2015/01/28 09:35:34;
+  cltt 3 2015/01/28 09:25:34;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:25:35;
+  ends 3 2015/01/28 09:35:35;
+  cltt 3 2015/01/28 09:25:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:25:36;
+  ends 3 2015/01/28 09:35:36;
+  cltt 3 2015/01/28 09:25:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:25:37;
+  ends 3 2015/01/28 09:35:37;
+  cltt 3 2015/01/28 09:25:37;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:25:39;
+  ends 3 2015/01/28 09:35:39;
+  cltt 3 2015/01/28 09:25:39;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:25:40;
+  ends 3 2015/01/28 09:35:40;
+  cltt 3 2015/01/28 09:25:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:25:41;
+  ends 3 2015/01/28 09:35:41;
+  cltt 3 2015/01/28 09:25:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:25:42;
+  ends 3 2015/01/28 09:35:42;
+  cltt 3 2015/01/28 09:25:42;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:25:43;
+  ends 3 2015/01/28 09:35:43;
+  cltt 3 2015/01/28 09:25:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+  client-hostname "android-9cf5a3b52332270";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:25:57;
+  ends 3 2015/01/28 09:35:57;
+  cltt 3 2015/01/28 09:25:57;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 09:26:44;
+  ends 3 2015/01/28 09:36:44;
+  cltt 3 2015/01/28 09:26:44;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 09:26:47;
+  ends 3 2015/01/28 09:36:47;
+  cltt 3 2015/01/28 09:26:47;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 09:26:57;
+  ends 3 2015/01/28 09:36:57;
+  cltt 3 2015/01/28 09:26:57;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 09:27:41;
+  ends 3 2015/01/28 09:37:41;
+  cltt 3 2015/01/28 09:27:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 09:28:38;
+  ends 3 2015/01/28 09:38:38;
+  cltt 3 2015/01/28 09:28:38;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 09:19:31;
+  ends 3 2015/01/28 09:29:31;
+  tstp 3 2015/01/28 09:29:31;
+  cltt 3 2015/01/28 09:19:31;
+  binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:29:46;
+  ends 3 2015/01/28 09:39:46;
+  cltt 3 2015/01/28 09:29:46;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:30:50;
+  ends 3 2015/01/28 09:40:50;
+  cltt 3 2015/01/28 09:30:50;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 09:31:33;
+  ends 3 2015/01/28 09:41:33;
+  cltt 3 2015/01/28 09:31:33;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+  client-hostname "android-513be6fbadd27106";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 09:31:36;
+  ends 3 2015/01/28 09:41:36;
+  cltt 3 2015/01/28 09:31:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 09:31:45;
+  ends 3 2015/01/28 09:41:45;
+  cltt 3 2015/01/28 09:31:45;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 09:31:47;
+  ends 3 2015/01/28 09:41:47;
+  cltt 3 2015/01/28 09:31:47;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 09:32:29;
+  ends 3 2015/01/28 09:42:29;
+  cltt 3 2015/01/28 09:32:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 09:33:27;
+  ends 3 2015/01/28 09:43:27;
+  cltt 3 2015/01/28 09:33:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:34:35;
+  ends 3 2015/01/28 09:44:35;
+  cltt 3 2015/01/28 09:34:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:34:36;
+  ends 3 2015/01/28 09:44:36;
+  cltt 3 2015/01/28 09:34:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 09:34:44;
+  ends 3 2015/01/28 09:44:44;
+  cltt 3 2015/01/28 09:34:44;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.175 {
+  starts 3 2015/01/28 09:34:58;
+  ends 3 2015/01/28 09:44:58;
+  cltt 3 2015/01/28 09:34:58;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:8a:6c:0b;
+  client-hostname "MVUbuntu01-2SMR";
+}
+lease 172.22.64.185 {
+  starts 3 2015/01/28 09:25:43;
+  ends 3 2015/01/28 09:35:43;
+  tstp 3 2015/01/28 09:35:43;
+  cltt 3 2015/01/28 09:25:43;
+  binding state free;
+  hardware ethernet 00:08:22:05:39:49;
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:35:59;
+  ends 3 2015/01/28 09:45:59;
+  cltt 3 2015/01/28 09:35:59;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 09:36:25;
+  ends 3 2015/01/28 09:46:25;
+  cltt 3 2015/01/28 09:36:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 09:36:34;
+  ends 3 2015/01/28 09:46:34;
+  cltt 3 2015/01/28 09:36:34;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 09:36:35;
+  ends 3 2015/01/28 09:46:35;
+  cltt 3 2015/01/28 09:36:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 09:37:18;
+  ends 3 2015/01/28 09:47:18;
+  cltt 3 2015/01/28 09:37:18;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.194 {
+  starts 3 2015/01/28 09:37:40;
+  ends 3 2015/01/28 09:47:40;
+  cltt 3 2015/01/28 09:37:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 14:7d:c5:f9:51:ff;
+  uid "\001\024}\305\371Q\377";
+  client-hostname "android-90cc29f91b3eabed";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 09:38:15;
+  ends 3 2015/01/28 09:48:15;
+  cltt 3 2015/01/28 09:38:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.176 {
+  starts 3 2015/01/28 09:39:06;
+  ends 3 2015/01/28 09:49:06;
+  cltt 3 2015/01/28 09:39:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:91:e3:71;
+  client-hostname "MVUbuntu01-2SMR";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:39:31;
+  ends 3 2015/01/28 09:49:31;
+  cltt 3 2015/01/28 09:39:31;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 09:39:32;
+  ends 3 2015/01/28 09:49:32;
+  cltt 3 2015/01/28 09:39:32;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+  client-hostname "android-8ff76139f809e3b";
+}
+lease 172.22.64.175 {
+  starts 3 2015/01/28 09:39:55;
+  ends 3 2015/01/28 09:49:55;
+  cltt 3 2015/01/28 09:39:55;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:8a:6c:0b;
+  client-hostname "MVUbuntu01-2SMR";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:40:48;
+  ends 3 2015/01/28 09:50:48;
+  cltt 3 2015/01/28 09:40:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 09:41:14;
+  ends 3 2015/01/28 09:51:14;
+  cltt 3 2015/01/28 09:41:14;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 09:41:23;
+  ends 3 2015/01/28 09:51:23;
+  cltt 3 2015/01/28 09:41:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 09:41:24;
+  ends 3 2015/01/28 09:51:24;
+  cltt 3 2015/01/28 09:41:24;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 09:41:26;
+  ends 3 2015/01/28 09:51:26;
+  cltt 3 2015/01/28 09:41:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.198 {
+  starts 3 2015/01/28 09:31:33;
+  ends 3 2015/01/28 09:41:33;
+  tstp 3 2015/01/28 09:41:33;
+  cltt 3 2015/01/28 09:31:33;
+  binding state free;
+  hardware ethernet f0:25:b7:1b:cf:43;
+  uid "\001\360%\267\033\317C";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 09:42:07;
+  ends 3 2015/01/28 09:52:07;
+  cltt 3 2015/01/28 09:42:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.194 {
+  starts 3 2015/01/28 09:42:29;
+  ends 3 2015/01/28 09:52:29;
+  cltt 3 2015/01/28 09:42:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 14:7d:c5:f9:51:ff;
+  uid "\001\024}\305\371Q\377";
+  client-hostname "android-90cc29f91b3eabed";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 09:43:04;
+  ends 3 2015/01/28 09:53:04;
+  cltt 3 2015/01/28 09:43:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.176 {
+  starts 3 2015/01/28 09:43:24;
+  ends 3 2015/01/28 09:53:24;
+  cltt 3 2015/01/28 09:43:24;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:91:e3:71;
+  client-hostname "MVUbuntu01-2SMR";
+}
+lease 172.22.64.175 {
+  starts 3 2015/01/28 09:44:12;
+  ends 3 2015/01/28 09:54:12;
+  cltt 3 2015/01/28 09:44:12;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:8a:6c:0b;
+  client-hostname "MVUbuntu01-2SMR";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:44:20;
+  ends 3 2015/01/28 09:54:20;
+  cltt 3 2015/01/28 09:44:20;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:45:36;
+  ends 3 2015/01/28 09:55:36;
+  cltt 3 2015/01/28 09:45:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 09:46:02;
+  ends 3 2015/01/28 09:56:02;
+  cltt 3 2015/01/28 09:46:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 09:46:12;
+  ends 3 2015/01/28 09:56:12;
+  cltt 3 2015/01/28 09:46:12;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 09:46:14;
+  ends 3 2015/01/28 09:56:14;
+  cltt 3 2015/01/28 09:46:14;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 09:46:16;
+  ends 3 2015/01/28 09:56:16;
+  cltt 3 2015/01/28 09:46:16;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+  client-hostname "android-1044810cd83230d8";
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 09:47:17;
+  ends 3 2015/01/28 09:57:17;
+  cltt 3 2015/01/28 09:47:17;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+  client-hostname "android-3de0a36cdee81e30";
+}
+lease 172.22.64.194 {
+  starts 3 2015/01/28 09:47:17;
+  ends 3 2015/01/28 09:57:17;
+  cltt 3 2015/01/28 09:47:17;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 14:7d:c5:f9:51:ff;
+  uid "\001\024}\305\371Q\377";
+  client-hostname "android-90cc29f91b3eabed";
+}
+lease 172.22.64.190 {
+  starts 3 2015/01/28 07:47:51;
+  ends 3 2015/01/28 09:47:51;
+  tstp 3 2015/01/28 09:47:51;
+  cltt 3 2015/01/28 07:47:51;
+  binding state free;
+  hardware ethernet 00:26:bb:15:7e:d9;
+  uid "\001\000&\273\025~\331";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 09:47:53;
+  ends 3 2015/01/28 09:57:53;
+  cltt 3 2015/01/28 09:47:53;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+  client-hostname "android-4bb395887e07dbc8";
+}
+lease 172.22.64.176 {
+  starts 3 2015/01/28 09:47:58;
+  ends 3 2015/01/28 09:57:58;
+  cltt 3 2015/01/28 09:47:58;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:91:e3:71;
+  client-hostname "MVUbuntu01-2SMR";
+}
+lease 172.22.64.175 {
+  starts 3 2015/01/28 09:48:13;
+  ends 3 2015/01/28 09:58:13;
+  cltt 3 2015/01/28 09:48:13;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:8a:6c:0b;
+  client-hostname "MVUbuntu01-2SMR";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:49:09;
+  ends 3 2015/01/28 09:59:09;
+  cltt 3 2015/01/28 09:49:09;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:49:10;
+  ends 3 2015/01/28 09:59:10;
+  cltt 3 2015/01/28 09:49:10;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.187 {
+  starts 3 2015/01/28 09:39:32;
+  ends 3 2015/01/28 09:49:32;
+  tstp 3 2015/01/28 09:49:32;
+  cltt 3 2015/01/28 09:39:32;
+  binding state free;
+  hardware ethernet 4c:74:03:17:8c:04;
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:50:33;
+  ends 3 2015/01/28 10:00:33;
+  cltt 3 2015/01/28 09:50:33;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+  client-hostname "android-50d76aeb2b76bc1a";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 09:50:51;
+  ends 3 2015/01/28 10:00:51;
+  cltt 3 2015/01/28 09:50:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+  client-hostname "android-d5de6035ad3887e3";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 09:51:01;
+  ends 3 2015/01/28 10:01:01;
+  cltt 3 2015/01/28 09:51:01;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+  client-hostname "android-30b307030528f24c";
+}
+lease 172.22.64.176 {
+  starts 3 2015/01/28 09:52:03;
+  ends 3 2015/01/28 10:02:03;
+  cltt 3 2015/01/28 09:52:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:0c:29:91:e3:71;
+  client-hostname "MVUbuntu01-2SMR";
+}
+lease 172.22.64.194 {
+  starts 3 2015/01/28 09:52:06;
+  ends 3 2015/01/28 10:02:06;
+  cltt 3 2015/01/28 09:52:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 14:7d:c5:f9:51:ff;
+  uid "\001\024}\305\371Q\377";
+  client-hostname "android-90cc29f91b3eabed";
+}
+lease 172.22.64.177 {
+  starts 3 2015/01/28 09:46:16;
+  ends 3 2015/01/28 09:56:16;
+  tstp 3 2015/01/28 09:56:16;
+  cltt 3 2015/01/28 09:46:16;
+  binding state free;
+  hardware ethernet 4c:74:03:07:42:ca;
+}
+lease 172.22.64.196 {
+  starts 3 2015/01/28 09:47:17;
+  ends 3 2015/01/28 09:57:17;
+  tstp 3 2015/01/28 09:57:17;
+  cltt 3 2015/01/28 09:47:17;
+  binding state free;
+  hardware ethernet 98:3b:16:bf:5f:e4;
+  uid "\001\230;\026\277_\344";
+}
+lease 172.22.64.178 {
+  starts 3 2015/01/28 09:47:53;
+  ends 3 2015/01/28 09:57:53;
+  tstp 3 2015/01/28 09:57:53;
+  cltt 3 2015/01/28 09:47:53;
+  binding state free;
+  hardware ethernet 20:02:af:d2:93:f2;
+  uid "\001 \002\257\322\223\362";
+}
+lease 172.22.64.175 {
+  starts 3 2015/01/28 09:48:13;
+  ends 3 2015/01/28 09:58:13;
+  tstp 3 2015/01/28 09:58:13;
+  cltt 3 2015/01/28 09:48:13;
+  binding state free;
+  hardware ethernet 00:0c:29:8a:6c:0b;
+}
+lease 172.22.64.183 {
+  starts 3 2015/01/28 09:49:10;
+  ends 3 2015/01/28 09:59:10;
+  tstp 3 2015/01/28 09:59:10;
+  cltt 3 2015/01/28 09:49:10;
+  binding state free;
+  hardware ethernet 98:0c:82:f3:24:88;
+  uid "\001\230\014\202\363$\210";
+}
+lease 172.22.64.186 {
+  starts 3 2015/01/28 09:50:33;
+  ends 3 2015/01/28 10:00:33;
+  tstp 3 2015/01/28 10:00:33;
+  cltt 3 2015/01/28 09:50:33;
+  binding state free;
+  hardware ethernet 48:5a:3f:6e:4b:ee;
+  uid "\001HZ?nK\356";
+}
+lease 172.22.64.192 {
+  starts 3 2015/01/28 09:50:51;
+  ends 3 2015/01/28 10:00:51;
+  tstp 3 2015/01/28 10:00:51;
+  cltt 3 2015/01/28 09:50:51;
+  binding state free;
+  hardware ethernet cc:07:ab:b5:c4:41;
+  uid "\001\314\007\253\265\304A";
+}
+lease 172.22.64.188 {
+  starts 3 2015/01/28 09:51:01;
+  ends 3 2015/01/28 10:01:01;
+  tstp 3 2015/01/28 10:01:01;
+  cltt 3 2015/01/28 09:51:01;
+  binding state free;
+  hardware ethernet 44:d4:e0:48:32:0d;
+}
+lease 172.22.64.176 {
+  starts 3 2015/01/28 09:52:03;
+  ends 3 2015/01/28 10:02:03;
+  tstp 3 2015/01/28 10:02:03;
+  cltt 3 2015/01/28 09:52:03;
+  binding state free;
+  hardware ethernet 00:0c:29:91:e3:71;
+}
+lease 172.22.64.194 {
+  starts 3 2015/01/28 09:52:06;
+  ends 3 2015/01/28 10:02:06;
+  tstp 3 2015/01/28 10:02:06;
+  cltt 3 2015/01/28 09:52:06;
+  binding state free;
+  hardware ethernet 14:7d:c5:f9:51:ff;
+  uid "\001\024}\305\371Q\377";
+}
